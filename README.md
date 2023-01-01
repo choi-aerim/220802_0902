@@ -21,6 +21,8 @@
 # 🌱 요약
 ### 기획배경
 ![image](https://user-images.githubusercontent.com/108326629/210164894-744774b6-1b48-4ede-88b0-558a55e373c5.png)
+![image](https://user-images.githubusercontent.com/108326629/210164979-e0d487c8-67b1-40cd-93fe-059c4594ad68.png)
+
 <br/>
 
 ### 최종목표
