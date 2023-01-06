@@ -1,7 +1,7 @@
 # 220802_0902 서울시 데이터안심구역 공모전 참가
 
 # 📊 발표주제 및 자료
-### 구매감소 고객 예측 및 추천 솔루션
+### 서울시 소상공인을 위한 상건 트렌드 변화 분석 & 시각화 솔루션
 
 [![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210164769-a81699a7-8060-4f56-a985-1095a8384758.png "발표자료 보러가기")](https://docs.google.com/presentation/d/1sozO8vh7suvRpes3npDgKr3N88jCqppF/edit#slide=id.p1)<br/>
 
@@ -36,6 +36,7 @@
 - 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/>
 
 <br/> 
+## 과정
 
 | Week | 코드 | 내용|
 | ------ | -- | ----------- |
@@ -46,7 +47,7 @@
 
 <br/>
 
-# 💬 팀원들의 후기 
+## 💬 팀원들의 후기 
 
 | 팀원 | 어려웠던 점과 배운 점 | 
 | ------ | -- | 
